@@ -54,4 +54,5 @@ Creating insights that can support real-world decision-making
 📷 Dashboard Preview
 
 Dashboard Image 
-- <a href = "https://github.com/DataLearnerSonal/Hospital-emergency-room-dashboards/blob/main/final%20dashboard%20of%20hopital%20emergency%20room.png"> View Dashboard 
+<img width="1843" height="772" alt="final dashboard of hopital emergency room" src="https://github.com/user-attachments/assets/3dd9b1ba-6680-47a5-980e-de8b47d6400c" />
+
