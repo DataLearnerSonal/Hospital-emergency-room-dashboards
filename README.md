@@ -7,10 +7,15 @@ The main objective of this project is to analyze Hospital Emergency Room data an
 This project aims to:
 
 Understand patient flow in the emergency room
+
 Track admission status (admitted vs not admitted)
+
 Analyze patient demographics like age and gender
+
 Measure service efficiency using the 30-minute timeliness metric
+
 Identify the most common department referrals
+
 Monitor key performance indicators like total patients, wait time, and satisfaction score
 
 
@@ -45,20 +50,29 @@ Helps understand workload distribution across hospital departments
 
 ##📈 Key Metrics
 Total Patients
+
 Average Wait Time
+
 Patient Satisfaction Score
 
 ##🛠️ Tools & Skills Used
 Microsoft Excel
+
 Data Cleaning & Preparation
+
 Pivot Tables & Pivot Charts
+
 Slicers & Interactive Dashboard Design
+
 KPI Metrics & Data Visualization
 
 ##💡 Key Learnings
 How to build an interactive dashboard from raw data
+
 Understanding healthcare KPIs and performance metrics
+
 Improving data storytelling and visualization skills
+
 Creating insights that can support real-world decision-making
 
 ##📷 Dashboard Preview
