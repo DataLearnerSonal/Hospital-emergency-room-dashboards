@@ -1,6 +1,6 @@
 # Hospital-emergency-room-dashboards (Interactive Dashboard creation usinf MS Excel)
 
-##🎯 Project Objective
+#🎯 Project Objective
 
 The main objective of this project is to analyze Hospital Emergency Room data and create an interactive Excel dashboard that provides clear and useful insights.
 
@@ -19,7 +19,7 @@ Identify the most common department referrals
 Monitor key performance indicators like total patients, wait time, and satisfaction score
 
 
-##📌 Project Overview
+#📌 Project Overview
 
 This is an end-to-end Excel dashboard project where I analyzed Hospital Emergency Room data to generate meaningful insights and improve decision-making in healthcare operations.
 
